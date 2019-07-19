@@ -57,8 +57,7 @@ class Person
             person.happiness += 1
             return "blah blah sun blah rain"
         elsif topic == 'programming'
-            self.happiness += 1
-            person.happiness += 1
+
             return "blah blah blah blah blah"
         end
     end
